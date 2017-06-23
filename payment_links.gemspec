@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = PaymentLinks::VERSION
   s.authors     = ["Frank"]
   s.email       = ["fbelanger@ackroo.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of PaymentLinks."
-  s.description = "TODO: Description of PaymentLinks."
+  s.homepage    = ""
+  s.summary     = "Summary of PaymentLinks."
+  s.description = "Description of PaymentLinks."
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
